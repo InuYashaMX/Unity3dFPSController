@@ -17,7 +17,7 @@ https://github.com/InuYashaMX/Unity3dFPSController/blob/master/MyScript.cs
 
 REEMPLAZAR Standard Assets > Characters -> FirstPersonCharacter -> Scripts
 
-a) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/RigidbodyFirstPersonController.cs
-b) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/MouseLook.cs
+https://github.com/InuYashaMX/Unity3dFPSController/blob/master/RigidbodyFirstPersonController.cs
+https://github.com/InuYashaMX/Unity3dFPSController/blob/master/MouseLook.cs
 
 
