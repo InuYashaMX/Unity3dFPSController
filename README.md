@@ -2,23 +2,16 @@ PASO 1. DEBES INSTALAR EL JOYSTICK PACK
 
 https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
-PASO 2. COPIAR LOS SCRIPTS a tu proyecto
-a)
-b)
-c)
+PASO 2. COPIAR ESTOS SCRIPTS A TU PROYECTO
+a) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/FixedButton.cs
+b) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/FixedTouchField.cs
+c) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/MyScript.cs
 
-PASO 3. CREAR CANVAS Y PONERLE SCALED WITH SCREEN SIZE Y REFERENCE RESOLUTION 1920 x 1080
 
-PASO 4. AÑADIR JOYSTICK FIXED
+PASO 3. CREAR CANVAS SEGUN EL VIDEO
 
-PASO 5. AÑADIR TOUCHPANEL Y PONERLE UN TAMAÑO
+PASO 10. REEMPLAZAR Standard Assets > Characters -> FirstPersonCharacter -> Scripts
 
-PASO 6. COPIAR BOTON HANDLE
-
-PASO 7. MOVER BOTON A TOUCH PANEL
-
-PASO 8. PONER CANVAS TRANSPARENTE
-
-PASO 3. MODIFICAR RIGITFPSCONTROLLER
-
+a) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/RigidbodyFirstPersonController.cs
+b) https://github.com/InuYashaMX/Unity3dFPSController/blob/master/MouseLook.cs
 
